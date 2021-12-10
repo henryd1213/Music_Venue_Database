@@ -1,0 +1,26 @@
+{
+  "name": "csi3660group13",
+  "version": "1.0.0",
+  "description": "csi3660group13finalproject",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryd1213/MusicVenue.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "php",
+    "html"
+  ],
+  "author": "had",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryd1213/MusicVenue/issues"
+  },
+  "homepage": "https://github.com/henryd1213/MusicVenue#readme"
+}
